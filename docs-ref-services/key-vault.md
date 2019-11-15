@@ -156,4 +156,4 @@ print(f'New vault URI: {vault.properties.vault_uri}')
 [1]: https://azure.microsoft.com/resources/samples/key-vault-python-manage/
 [2]: https://azure.microsoft.com/resources/samples/key-vault-recovery-python/
 
-View the [complete list](https://azure.microsoft.com/resources/samples/?platform=python&term=key+vault) of Azure Key Vault samples. 
+View the [complete list](https://docs.microsoft.com/en-us/samples/browse/?term=key%20vault) of Azure Key Vault samples. 
